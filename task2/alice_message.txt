@@ -1,0 +1,5 @@
+Hello Bob,
+This is Alice's secret message.
+cat > alice_message.txt <<'EOF'
+Hello Bob,
+This is Alice's secret message.
