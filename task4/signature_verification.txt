@@ -1,0 +1,6 @@
+gpg: encrypted with rsa2048 key, ID BD923708CF121EBB, created 2025-12-05
+      "Bob <bob@example.com>"
+This is a confidential internal message.
+gpg: Signature made Fri Dec  5 22:21:18 2025 GST
+gpg:                using RSA key 1084C8AEE3349201233CD5C428B2E7D216CADA45
+gpg: Good signature from "Alice (save) <alice@example.com>" [ultimate]

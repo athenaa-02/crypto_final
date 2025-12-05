@@ -1,0 +1,33 @@
+Root Certificate =>
+
+C=US, O=Google Trust Services LLC, CN=GTS Root R4
+
+
+
+
+Intermediate Certificate =>
+
+ subject: C=US, O=Google Trust Services, CN=WE2
+   issuer: C=US, O=Google Trust Services LLC, CN=GTS Root R4
+   type: ecdsa-with-SHA384
+   validity: NotBefore: Dec 13 09:00:00 2023 GMT; NotAfter: Feb 20 14:00:00 2029
+
+
+
+Leaf Certificate =>
+
+subject=CN=*.google.com
+issuer=C=US, O=Google Trust Services, CN=WE2
+Type: ECDSA, 256-bit
+Validity: Oct 27 2025 → Jan 19 2026
+
+
+
+
+Cipher  =>  TLS_AES_256_GCM_SHA384
+
+
+TLS version =>  New, TLSv1.3
+
+
+
